@@ -35,5 +35,17 @@ everything in this game is coded and hand drawn by me, with an exception of the 
 
 i hope you enjoy the game! thank you so much for reading this far :)
 
+.•° ✿ °•.
+
+SNAPSHOTS
+ 
+°•. ✿ .•°
+
+![alt text](https://github.com/josephine-w/operate/blob/main/operate/gamesnapshots/title.png)
+![alt text](https://github.com/josephine-w/operate/blob/main/operate/gamesnapshots/game.png)
+![alt text](https://github.com/josephine-w/operate/blob/main/operate/gamesnapshots/death.png)
+
+
+
 
 
