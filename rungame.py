@@ -286,7 +286,7 @@ def playGame():
 
     # Sound 
     mixer.stop()
-    monitor = mixer.Sound('monitorsound.wav')
+    monitor = mixer.Sound('./sounds/monitorsound.wav')
     mixer.Sound.set_volume(monitor, 0.5)
     mixer.Sound.play(monitor, loops = -1)
     
@@ -424,7 +424,7 @@ def playGame():
             display.update()
 
             mixer.stop()
-            dead = mixer.Sound('dead.wav')
+            dead = mixer.Sound('./sounds/dead.wav')
             mixer.Sound.set_volume(dead, 0.01)
             mixer.Sound.play(dead, loops = 0)
 
