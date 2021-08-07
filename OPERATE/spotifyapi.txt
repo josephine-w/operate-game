@@ -1,0 +1,6 @@
+generate colour palette from playlist
+
+-> user inputs playlist
+-> output is a color palette based on moods
+
+assign each genre a colour 
