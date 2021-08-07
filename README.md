@@ -6,7 +6,7 @@ pygame is needed to run operate 🩺 (https://www.pygame.org/wiki/GettingStarted
 python3 -m pip install -U pygame --user
 ```
 
-![alt text](https://github.com/josephine-w/operate/blob/main/operate/images/devnote.png)
+![alt text](https://github.com/josephine-w/operate-game/blob/main/images/devnote.png)
 
 stylized as operate 🩺, this game is inspired by one of the beloved board games i grew up with, Operation. 
 
@@ -41,9 +41,9 @@ SNAPSHOTS
  
 °•. ✿ .•°
 
-![alt text](https://github.com/josephine-w/operate/blob/main/operate/gamesnapshots/title.png)
-![alt text](https://github.com/josephine-w/operate/blob/main/operate/gamesnapshots/game.png)
-![alt text](https://github.com/josephine-w/operate/blob/main/operate/gamesnapshots/death.png)
+![alt text](https://github.com/josephine-w/operate-game/blob/main/gamesnapshots/title.png)
+![alt text](https://github.com/josephine-w/operate-game/blob/main/gamesnapshots/game.png)
+![alt text](https://github.com/josephine-w/operate-game/blob/main/gamesnapshots/death.png)
 
 
 
