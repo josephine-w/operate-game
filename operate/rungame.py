@@ -493,7 +493,7 @@ def mainMenu(mouse, x, y):
 
     return gamestate
 
-gamestate = play
+gamestate = main
 # Main Game Loop
 while not done:
     pygame.init()
