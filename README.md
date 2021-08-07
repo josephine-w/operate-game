@@ -29,7 +29,7 @@ the changes are listed below:
 - new easter egg (try to find it! :) )
 
 ## Background
-as my current co-op is a.i. and machine learning based, i felt like i wanted a fun way to revisit python after all these years. i decided to remake my favourite project i've made,
+as my current co-op is a.i. and machine learning based, i felt like i wanted a fun way to revisit python after all these years so i'd be better equipped on the job. i decided to remake my favourite project i've made,
 except i wanted to make it 100x better and apply what i've learned about clean code and shortcuts throughout my first year at UWaterloo. thus,,,  operate 🩺 was born!
 
 everything in this game is coded and hand drawn by me, with an exception of the tweezers clip art used for the cursor and a bit of help from the internet when needed haha :D
