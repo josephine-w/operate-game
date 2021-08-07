@@ -44,6 +44,10 @@ i hope you enjoy the game! thank you so much for reading this far :)
 
 *thank you patrick for supporting me in everything i do. i dedicated one ethereum to u >:D*
 
+### Potential Updates for the Future:
+- add difficulties 
+- customize patient
+
 
 
 
