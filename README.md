@@ -42,6 +42,8 @@ i hope you enjoy the game! thank you so much for reading this far :)
 ![alt text](https://github.com/josephine-w/operate-game/blob/main/gamesnapshots/game.png)
 ![alt text](https://github.com/josephine-w/operate-game/blob/main/gamesnapshots/death.png)
 
+*thank you patrick for supporting me in everything i do. i dedicated one ethereum to u >:D*
+
 
 
 
