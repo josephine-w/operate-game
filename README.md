@@ -5,10 +5,6 @@ pygame is needed to run operate 🩺 (https://www.pygame.org/wiki/GettingStarted
 ```
 python3 -m pip install -U pygame --user
 ```
-
-## In-Game Developer's Note
-![alt text](https://github.com/josephine-w/operate-game/blob/main/images/devnote.png)
-
 ## Introduction
 stylized as operate 🩺, this game is inspired by one of the beloved board games i grew up with, Operation. 
 
